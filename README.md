@@ -28,4 +28,6 @@ Olá, eu sou Lucas Coquenão 👋
   <a href="https://t.me/Coquenao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
   
- ![Snake animation](https://github.com/lucasclf/lucasclf/blob/output/github-contribution-grid-snake.svg)
+##
+  
+![Snake animation](https://github.com/lucasclf/lucasclf/blob/output/github-contribution-grid-snake.svg)
