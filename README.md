@@ -4,6 +4,8 @@
 
 <a href="https://github.com/lucasclf" target="_blank"/><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucasclf&count_private=true&show_icons=true&theme=synthwave" /></a>
 
+[SoulCode Academy](https://soulcodeacademy.org/{:target="_blank"})
+
 <p>📍 <strong>Vivendo em: </strong> São paulo - SP - Brasil</p>
 <p>🌱 <strong>Aprendendo: </strong>HTML, CSS, JavaScript e jQuery;</p>
 <p>🎒 <strong>Principais ferramentas: </strong>Visual Studio Code e GitHub;</p>
