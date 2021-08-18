@@ -1,13 +1,13 @@
-<h3 align="center"> Olá, eu sou Lucas Coquenão 👋</h3>
+<h2 align="center"> Olá, eu sou Lucas Coquenão <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif width="50"></h2>
 <br>
-<p>👨‍🎓<strong>Estudando: </strong>Linguagens web em <a href="https://soulcodeacademy.org/" target="_blank">SoulCode Academy</a>;</p>
+<p>👨‍🎓 <strong>Estudando: </strong>Linguagens web em <a href="https://soulcodeacademy.org/" target="_blank">SoulCode Academy</a>;</p>
 
 <a href="https://github.com/lucasclf"/><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucasclf&count_private=true&show_icons=true&theme=synthwave" /></a>
 
-
-<p>🌱<strong>Aprendendo: </strong>HTML, CSS, JavaScript e jQuery;</p>
-<p>🎒<strong>Principais ferramentas: </strong>Visual Studio Code e GitHub;</p>
-<p>⚡<strong>Fato curioso: </strong>Amo jogos eletrônicos e de tabuleiro;</p>
+<p>📍 <strong>Vivendo em: </strong> São paulo - SP - Brasil</p>
+<p>🌱 <strong>Aprendendo: </strong>HTML, CSS, JavaScript e jQuery;</p>
+<p>🎒 <strong>Principais ferramentas: </strong>Visual Studio Code e GitHub;</p>
+<p>⚡ <strong>Fato curioso: </strong>Amo jogos eletrônicos e de tabuleiro;</p>
 <p>😄 <strong>Pronomes: </strong>Ele, Dele;</p>
 <p>:cat: <strong>Meus amores: </strong><a href="https://www.instagram.com/caomunista_comunigatos/" target="_blank">Instagram</a>:dog:</p>
 
