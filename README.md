@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, eu sou Lucas Coquenão <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif width="50"></h2>
 <br>
-<p>👨‍🎓 <strong>Estudando: </strong>Linguagens web em <a target="_blank" href="https://soulcodeacademy.org/">SoulCode Academy</a>;</p>
+<p>👨‍🎓 <strong>Estudando: </strong>Linguagens web em <a href="https://soulcodeacademy.org/">SoulCode Academy</a>;</p>
 
 <a href="https://github.com/lucasclf" target="_blank"/><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucasclf&count_private=true&show_icons=true&theme=synthwave" /></a>
 
