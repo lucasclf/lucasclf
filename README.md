@@ -6,8 +6,6 @@ Olá, eu sou Lucas Coquenão 👋
 <p>⚡<strong>Fato curioso: </strong>Amo jogos eletrônicos e de tabuleiro;</p>
 <p>😄 <strong>Pronomes: </strong>Ele, Dele;</p>
 <p>:cat: <strong>Meus amores: </strong><a href="https://www.instagram.com/caomunista_comunigatos/" target="_blank">Instagram</a>:dog:</p>
-<hr>
-
 
 ##
 
@@ -30,3 +28,4 @@ Olá, eu sou Lucas Coquenão 👋
   <a href="https://t.me/Coquenao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
   
+ ![Snake animation](https://github.com/lucasclf/lucasclf/blob/output/github-contribution-grid-snake.svg)
