@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, eu sou Lucas Coquenão <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif width="50"></h2>
 <br>
-<p>🧑‍💻 <strong>Trabalhando: </strong> em <a href="https://pagseguro.uol.com.br/">PagBank</a>;</p>
+<p>💻 <strong>Trabalhando: </strong> em <a href="https://pagseguro.uol.com.br/">PagBank</a>;</p>
 <p>👨‍🎓 <strong>Estudando: </strong>Ciência de Dados em <a href="https://univesp.br/">UNIVESP</a>;</p>
 
 <a href="https://github.com/lucasclf" target="_blank"/><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucasclf&count_private=true&show_icons=true&theme=synthwave" /></a>
