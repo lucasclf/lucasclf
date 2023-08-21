@@ -7,7 +7,7 @@
 
 <p>📍 <strong>Vivendo em: </strong> São paulo - SP - Brasil</p>
 <p>🌱 <strong>Aprendendo: </strong>HTML, CSS, JavaScript e jQuery;</p>
-<p>🎒 <strong>Principais ferramentas: </strong>Visual Studio Code e GitHub;</p>
+<p>🎒 <strong>Principais ferramentas: </strong>IntelliJ, Jenkins e Postman;</p>
 <p>⚡ <strong>Fato curioso: </strong>Amo jogos eletrônicos e de tabuleiro;</p>
 <p>😄 <strong>Pronomes: </strong>Ele, Dele;</p>
 <p>:cat: <strong>Meus amores: </strong><a href="https://www.instagram.com/caomunista_comunigatos/" target="_blank">Instagram</a>:dog:</p>
