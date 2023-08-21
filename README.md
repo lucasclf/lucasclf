@@ -6,7 +6,7 @@
 <a href="https://github.com/lucasclf" target="_blank"/><img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=lucasclf&count_private=true&show_icons=true&theme=synthwave" /></a>
 
 <p>📍 <strong>Vivendo em: </strong> São paulo - SP - Brasil</p>
-<p>🌱 <strong>Aprendendo: </strong>HTML, CSS, JavaScript e jQuery;</p>
+<p>🌱 <strong>Aprendendo: </strong>Python, PixelArt e C#;</p>
 <p>🎒 <strong>Principais ferramentas: </strong>IntelliJ, Jenkins e Postman;</p>
 <p>⚡ <strong>Fato curioso: </strong>Amo jogos eletrônicos e de tabuleiro;</p>
 <p>😄 <strong>Pronomes: </strong>Ele, Dele;</p>
